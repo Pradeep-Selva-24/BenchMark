@@ -1,0 +1,261 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Marketing.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Marketing.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\New_Images\\1.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\New_Images\\1.png"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\New_Images\\2.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\New_Images\\2.png"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\New_Images\\3.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\New_Images\\3.png"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\New_Images\\BenchMark_Logo.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\New_Images\\BenchMark_Logo.png"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\New_Images\\Generating new leads.gif",
+      "PackagePath": "staticwebassets\\Content\\assets\\New_Images\\Generating new leads.gif"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\New_Images\\Lead_Generation.webp",
+      "PackagePath": "staticwebassets\\Content\\assets\\New_Images\\Lead_Generation.webp"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\New_Images\\Marketing consulting.gif",
+      "PackagePath": "staticwebassets\\Content\\assets\\New_Images\\Marketing consulting.gif"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\New_Images\\Marketing.gif",
+      "PackagePath": "staticwebassets\\Content\\assets\\New_Images\\Marketing.gif"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\New_Images\\Marketing_B3.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\New_Images\\Marketing_B3.png"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\New_Images\\Website Creator.gif",
+      "PackagePath": "staticwebassets\\Content\\assets\\New_Images\\Website Creator.gif"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\New_Images\\diamond-sunset.svg",
+      "PackagePath": "staticwebassets\\Content\\assets\\New_Images\\diamond-sunset.svg"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\New_Images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Content\\assets\\New_Images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\New_Images\\rose-petals.svg",
+      "PackagePath": "staticwebassets\\Content\\assets\\New_Images\\rose-petals.svg"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\New_Images\\subtle-prism.svg",
+      "PackagePath": "staticwebassets\\Content\\assets\\New_Images\\subtle-prism.svg"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\New_Images\\theme-develop.mp4",
+      "PackagePath": "staticwebassets\\Content\\assets\\New_Images\\theme-develop.mp4"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\css\\font-awesome_4.7.0_css_font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\font-awesome_4.7.0_css_font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\css\\font-awesome_6.4.2_css_all.min.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\font-awesome_6.4.2_css_all.min.css"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\css\\line-awesome_1.3.0_line-awesome_css_line-awesome.min.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\line-awesome_1.3.0_line-awesome_css_line-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\css\\off-canvas.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\off-canvas.css"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\css\\rs-spacing.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\rs-spacing.css"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\css\\rsmenu-main.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\rsmenu-main.css"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\css\\style - Copy.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\style - Copy.css"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\fonts\\Flaticon-2.html",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\Flaticon-2.html"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\fonts\\Flaticon-3.html",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\Flaticon-3.html"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\fonts\\Flaticon-4.html",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\Flaticon-4.html"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\fonts\\Flaticon.html",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\Flaticon.html"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\fonts\\Flaticond41d.html",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\Flaticond41d.html"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\js\\WebValidation.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\WebValidation.js"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\js\\contact.form.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\contact.form.js"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\js\\modernizr_2.8.3_modernizr.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\modernizr_2.8.3_modernizr.min.js"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\js\\particles.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\particles.min.js"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\js\\pointer.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\pointer.js"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\js\\rsmenu-main.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\rsmenu-main.js"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\js\\skill.bars.jquery.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\skill.bars.jquery.js"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\js\\swiper.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\Content\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\icomoon.eot",
+      "PackagePath": "staticwebassets\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\icomoon.svg",
+      "PackagePath": "staticwebassets\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Pradeep\\Marketing\\Marketing\\wwwroot\\icomoon.woff",
+      "PackagePath": "staticwebassets\\icomoon.woff"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Marketing.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Marketing.props",
+      "PackagePath": "build\\Marketing.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Marketing.props",
+      "PackagePath": "buildMultiTargeting\\Marketing.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Marketing.props",
+      "PackagePath": "buildTransitive\\Marketing.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
